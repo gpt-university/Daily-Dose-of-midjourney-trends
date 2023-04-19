@@ -150,4 +150,6 @@ if __name__ == "__main__":
  
  https://gitee.com/jja8/NewBingGoGo
  
+ https://github.com/gpt-university/Telegram_Edge
+ 
  
