@@ -152,4 +152,4 @@ if __name__ == "__main__":
  
  https://github.com/gpt-university/Telegram_Edge
  
- 
+ https://github.com/devmanojsoni/ask6/blob/fa7c06f3c2166406c52f50db4190b6e22d87db47/lambda/BingImageCreator.py
