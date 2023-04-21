@@ -1,6 +1,13 @@
 # bing-mj-diving
 
 
+## trends
+
+get inspiration from trends for your favourite style and prompt
+
+
+## run your  test against  https://www.catbird.ai/ or newbing
+
 
 
 ```
